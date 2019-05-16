@@ -1,0 +1,10 @@
+31310Error nro 1 = uno   nro 2 = dos77Error nro 1 = uno   nro 2 = 5593
+	13
+	10
+	Error nro 1 = uno   nro 2 = dos
+	7
+	7
+	Error nro 1 = uno   nro 2 = 5
+	5
+	9
+	

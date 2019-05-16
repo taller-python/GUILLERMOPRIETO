@@ -1,0 +1,9 @@
+0
+	0
+	0
+	Error nro 1 = uno   nro 2 = 5
+	-1
+	Error nro 1 = uno   nro 2 = dos
+	1
+	1
+	

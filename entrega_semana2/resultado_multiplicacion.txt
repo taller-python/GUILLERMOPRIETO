@@ -1,0 +1,10 @@
+2
+	6
+	32
+	Error nro 1 = uno   nro 2 = 3
+	Error nro 1 = uno   nro 2 = dos
+	20
+	0
+	Error nro 1 = 2   nro 2 = uno
+	8
+	
